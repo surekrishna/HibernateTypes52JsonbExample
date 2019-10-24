@@ -1,0 +1,2 @@
+# HibernateTypes52JsonbExample
+creating new HibernateTypes52JsonbExample
